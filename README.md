@@ -74,12 +74,19 @@ head 2:
 encoder:
 ![image](https://user-images.githubusercontent.com/94165326/162564507-406e9354-e7a6-4307-a717-db5faddc978d.png)
 accuracy:
+
 ![image](https://user-images.githubusercontent.com/94165326/162564527-f6270eb9-ad64-4060-bb5e-b034e0850353.png)
+
 confusion:
+
 ![image](https://user-images.githubusercontent.com/94165326/162564542-354c7a5b-b487-43a9-a0df-8ddf396c6cac.png)
+
 classification:
+
 ![image](https://user-images.githubusercontent.com/94165326/162564562-5532f058-aeac-4e96-825b-e6ea93b8fe03.png)
+
 predict:
+
 ![image](https://user-images.githubusercontent.com/94165326/162564581-1a839c9c-f0f8-407a-b07e-306f3ca640d2.png)
 ![image](https://user-images.githubusercontent.com/94165326/162564592-c02bb4ae-fcf0-4bdb-a832-74e32cc99975.png)
 
