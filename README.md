@@ -88,6 +88,8 @@ classification:
 predict:
 
 ![image](https://user-images.githubusercontent.com/94165326/162564581-1a839c9c-f0f8-407a-b07e-306f3ca640d2.png)
+
+lr predict:
 ![image](https://user-images.githubusercontent.com/94165326/162564592-c02bb4ae-fcf0-4bdb-a832-74e32cc99975.png)
 
 
